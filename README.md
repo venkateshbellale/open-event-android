@@ -113,7 +113,7 @@ To install system with Docker please refer to the [Docker installation readme](/
 
 #### How do I deploy Web App Generator with Heroku
 
-Please read how to deploy to [Heroku here](/docs/HEROKU.md)
+Please read how to deploy to [Heroku here](/docs/INSTALLATION_HEROKU.md)
 
 ### Accessing the App Generator
 
